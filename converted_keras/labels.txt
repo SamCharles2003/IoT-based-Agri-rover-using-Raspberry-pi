@@ -1,0 +1,15 @@
+0 None
+1 Pepper_Bell_Bacterial_Spot
+2 Pepper_Bell_Healthy
+3 Potato_Early_Blight
+4 Potato_Healthy
+5 Potato_Late_Blight
+6 Tomato_Bacterial_Spot
+7 Tomato_Early_Blight
+8 Tomato_Healthy
+9 Tomato_Late_Blight
+10 Tomato_Leaf_Mold
+11 Tomato_Septoria_late_Spot
+12 Rice_Nitrogen
+13 RIce_Phosphorus 
+14 Rice_Potassium
